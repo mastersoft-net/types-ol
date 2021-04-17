@@ -3,14 +3,6 @@
   "version": "3.4.2",
   "description": "OpenLayers 6+ TypeScript definition",
   "author": "Rifa'i M. Hanif <hanreev@gmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hanreev/types-ol.git"
-  },
-  "bugs": {
-    "url": "https://github.com/hanreev/types-ol/issues"
-  },
-  "homepage": "https://github.com/hanreev/types-ol",
   "keywords": [
     "openlayers",
     "ol",
