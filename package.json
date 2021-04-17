@@ -1,5 +1,5 @@
 {
-  "name": "@mastersoft/types-ol-gismatrix",
+  "name": "@types/ol",
   "version": "3.4.2",
   "description": "OpenLayers 6+ TypeScript definition",
   "author": "Rifa'i M. Hanif <hanreev@gmail.com>",
